@@ -26,7 +26,6 @@
 | Project | Description | Stack |
 |---|---|---|
 | 🤖 finsight-ai | AI-powered financial advisor | Python |
-| _(add your next pet project here)_ | | |
 
 📌 All repos: https://github.com/Andrev228?tab=repositories
 
