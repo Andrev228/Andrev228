@@ -10,7 +10,6 @@
 - 🧠 9+ years with React/TypeScript, ~1 year with Kotlin/Android
 - 🐍 Backend development with Python
 - 🤖 AI engineering skills: LangGraph, RAG pipelines, LangChain, FastAPI, agentic systems
-- 🛠 Also working part-time as a Senior AI Engineer at a startup
 - 📌 Open to interesting open-source collaborations
 
 ---
